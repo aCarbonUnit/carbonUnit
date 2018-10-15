@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+/********************************** 
+custom CSS by Carbon Unit ©2018 
+**********************************/
+
+/********************************* 
+GENERAL 
+*********************************/
+ .h2 {
+ 	text-align: center;
+ }
+
+img {
+
+	
+}
+ 
+
+
+/******************************** 
+NAVIGATION
+********************************/
+
+
+.nav-desktop {
+	background-color: #222;
+	padding: 1em;
+	margin: 0 auto;
+
+}
+
+.site-logo{
+	color: rgba(255,255,255,0.8);
+	 
+}
+
+.nav-desktop .menu-desktop{
+	background-color: transparent;
+	 
+
+
+}
+
+.nav-desktop a{
+	color:rgba(255,255,255,0.6);
+	font-weight: bold;
+}
+
+ .menu a {
+	display: inline-block;
+	line-height: 3em;
+	padding-top: 0;
+	padding-bottom: 0;
+ }
+
+ .menu a:hover {
+	color: rgba(255,255,255,0.8);
+}
+
+ .top-bar-left h4{
+	 color:rgba(255,255,255,0.6);
+	 font-weight: bold;
+ }
+
+/******************************* 
+HERO 
+*******************************/
+
+.hero {
+
+	 padding: 1em;
+	   
+}
+
+#logo {
+
+	margin-bottom: 5em;
+}
+
+    
+  
+     
+  
+
+
+ 
+
+/****************************** 
+MAIN 
+******************************/
+
+.main {
+
+padding: 2em; 
+margin: 0 auto;
+
+}
+
+h1 {
+
+}
+
+ 
+
+/***************************** 
+FOOTER 
+******************************/
+
+.footer{
+
+
+}
+
